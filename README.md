@@ -6,6 +6,7 @@ Each microservice is added as a **Git submodule** for independent development an
 ---
 
 ## Project Structure
+```bash
 instagram-be-microservices/
 ├── auth-service/ # Authentication service
 ├── post-service/ # Post and media service
@@ -15,6 +16,7 @@ instagram-be-microservices/
 ├── gateway-server/
 ├── vault/ Secret service
 └── infrastrcuture/
+```
 
 ## Getting Started
 
