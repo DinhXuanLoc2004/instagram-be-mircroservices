@@ -1,0 +1,24 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/DinhXuanLoc2004/instagram-be-auth-service
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/DinhXuanLoc2004/instagram-be-config-server
+[submodule "discovery-service"]
+	path = discovery-service
+	url = https://github.com/DinhXuanLoc2004/instagram-be-discovery-service
+[submodule "gateway-server"]
+	path = gateway-server
+	url = https://github.com/DinhXuanLoc2004/instagram-be-gateway-server
+[submodule "monitor-service"]
+	path = monitor-service
+	url = https://github.com/DinhXuanLoc2004/instagram-be-monitor-service
+[submodule "post-service"]
+	path = post-service
+	url = https://github.com/DinhXuanLoc2004/instagram-be-post-service
+[submodule "vault"]
+	path = vault
+	url = https://github.com/DinhXuanLoc2004/instagram-be-vault-server
+[submodule "infrastructure"]
+	path = infrastructure
+	url = https://github.com/DinhXuanLoc2004/instagram-be-infrastructure
