@@ -14,7 +14,7 @@ instagram-be-microservices/
 ├── monitor-service/
 ├── config-server/
 ├── gateway-server/
-├── vault/ Secret service
+├── vault/ # Secret service
 └── infrastrcuture/
 ```
 
